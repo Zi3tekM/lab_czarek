@@ -2,4 +2,9 @@ dadada
 adawda
 dsadadwadad
 dada
+<<<<<<< HEAD
 dwadada
+=======
+dwadad
+wadad
+>>>>>>> feat/Pollub2
